@@ -1,2 +1,2 @@
-# y-app1
-repository for y-app1 proj
+# ymisc-app01
+repository for ymisc-app01 proj
