@@ -1,2 +1,2 @@
-# ymisc-app01
-repository for ymisc-app01 proj
+# ytz101
+repository for ytz101 app proj
